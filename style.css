@@ -1,0 +1,24 @@
+body{background: url(image/fon.jpg); margin: 0; padding: 0;
+	font: 16px/24px Arial, Tahoma, sans-serif;}
+a{text-decoration: none;}
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto;}
+div.header{background: #101417;}
+
+/*Шапка сайта*/
+
+div.topmenu{float: right; height: 110px; line-height: 110px;}
+div.topmenu a{margin: 0 0 0 10px; color: #1638a3;}
+div.topmenu a:hover{color: #fff;}
+div.afisha{padding: 80px 0px 0px 0px; background: url(image/afisha.jpg); background-position-y: center; background-position-x: center;}
+/*Главное меню*/
+div.menu{background: #ABA5A0; border: 0px solid #016c8b; border-left: none; border-right: none;}
+div.menu ul{margin: 0; padding: 0; list-style: none; text-align: center;}
+div.menu ul li{display: inline-block; margin: 5px 50px;}
+div.menu ul li a{color: #fff; text-transform: uppercase; text-shadow: 1px 1px 3px #0b4455;}
+div.menu ul li a:hover{color: #1E90FF;}
+div.fon {opacity: 0.86; background: #fff; border: 1px solid #ccc; border-top: none; padding: 40px;}
+div.block{width: center;}
+div.block ul li{display: list-item; margin: 5px 50px;}
+div.block ul li a{color: #1638a3; text-transform: uppercase; text-shadow: 1px 1px 3px #1E90FF;}
+div.block ul li a:hover{color: #1E90FF;}
